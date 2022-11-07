@@ -8,15 +8,3 @@
   <p><a href="https://github.com/zeev-x">• Lynch</a></p>
 </center>
 </body>
-<style>
-body {
-  height: 100vh;
-  width: 100%;
-  text-align: center;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-image: url(bg.jpg);
-}
-</style>
