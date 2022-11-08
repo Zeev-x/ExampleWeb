@@ -1,7 +1,7 @@
 <div class="page">
   <center>
     <h3>Tentang Website Ini</h3>
-    <h6>Website ini di buat hanya untuk main-main,hasil website maker tidak bisa di jadikan website resmi atau di hosting.jikalau ingin mendapatkan file mentahan website ini bisa di unduh gratis di <a href="https://github.com/Zeev-x/ExampleWeb/">Sini</a>.</h6>
+    <h6>Website ini di buat hanya untuk main-main,hasil website maker tidak bisa di jadikan website resmi atau di hosting.jikalau ingin mendapatkan file mentahan website ini bisa di unduh gratis di <a href="Example.zip">Sini</a>.</h6>
     <h3>Tentang Penulis</h3>
     <h6>Lynch selaku sang penulis website ini adalah pemula,jadi jika ada salah kata dalam pengetikan lynch memohon maaf yang sebesar-besarnya.</h6>
     <hr>  
